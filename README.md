@@ -1,5 +1,5 @@
 
-<img ser="https://www.linkedin.com/in/afser-hossain247/overlay/background-photo/">
+<img ser=https://media.licdn.com/dms/image/v2/D5616AQHRePM3Tn5F3Q/profile-displaybackgroundimage-shrink_350_1400/B56Z9aHCa7HYAU-/0/1783923222445?e=1785369600&v=beta&t=tYY5XbU-nCxMfOMsqg_AC4383LeKgiJ3FUVqMXk2PPY
 <h1 align="center">Hi 👋, I'm Afser Hossain</h1>
 <h3 align="center">I’m passionate Web Designer, Front-End Developer, and WordPress Specialist dedicated to crafting modern, responsive, and high-performance websites.</h3>
 
