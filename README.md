@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHRePM3Tn5F3Q/profile-displaybackgroundimage-shrink_350_1400/B56Z9aHCa7HYAU-/0/1783923222445?e=1785369600&v=beta&t=tYY5XbU-nCxMfOMsqg_AC4383LeKgiJ3FUVqMXk2PPY">
+<img src="(https://media.licdn.com/dms/image/v2/D5616AQE2NH_NKd8JcA/profile-displaybackgroundimage-shrink_350_1400/B56Z9lTOBhGoAU-/0/1784110965121?e=1786579200&v=beta&t=6UW5KQTiVtllhbjUzBj6JmYAfVEQbCk2BKDXXzwp6NA)">
 <h1 align="center">I'm Afser Hossain</h1>
 <h3 align="center">I’m passionate Web Designer, Front-End Developer, and WordPress Specialist dedicated to crafting modern, responsive, and high-performance websites.</h3>
 
