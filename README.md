@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/photo.jpg" alt="Photo">
+<img src=https://media.licdn.com/dms/image/v2/D5616AQE2NH_NKd8JcA/profile-displaybackgroundimage-shrink_200_800/B56Z9lTOBhGoAQ-/0/1784110965121?e=1788393600&v=beta&t=TeVwUawCNowm83v0dHyo52UyLA-3IJtZr0VCv0k5xPU>
 <h1 align="center">I'm Afser Hossain</h1>
 <h3 align="center">I’m passionate Web Designer, Front-End Developer, and WordPress Specialist dedicated to crafting modern, responsive, and high-performance websites.</h3>
 
